@@ -1,1 +1,5 @@
-# INFX-573 Statistics in Data Science
+## INFX-573 Statistics in Data Science
+
+### Labs
+
+### Project
